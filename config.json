@@ -1,0 +1,28 @@
+{
+    "token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "admin_chat_id": "YOUR_ADMIN_CHAT_ID",
+    "google_sheet_key": "YOUR_GOOGLE_SHEET_KEY",
+    "service_account_file": "YOUR_SERVICE_ACCOUNT_FILE.json",
+    "projects": {
+        "project1": {
+            "name": "Наименование магазина №1 на озон",
+            "shop": "Наименование компании №1",
+            "fbs": "Идентификатор склада rFBS"
+        },
+        "project2": {
+            "name": "Наименование магазина №2 на озон",
+            "shop": "Наименование компании №2",
+            "fbs": "Идентификатор склада rFBS"
+        },
+        "project3": {
+            "name": "Наименование магазина №3 на озон",
+            "shop": "Наименование компании №3",
+            "fbs": "Идентификатор склада rFBS"
+        },
+        "project4": {
+            "name": "Наименование магазина №4 на озон",
+            "shop": "Наименование компании №4",
+            "fbs": "Идентификатор склада rFBS"
+        }
+    }
+}
